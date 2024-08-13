@@ -8,11 +8,7 @@ This repository contains materials, code, and documentation related to the quant
 
 ## Structure
 
-- **/data**: Contains datasets used for analysis.
 - **/notebooks**: Jupyter notebooks with code and explanations for different analyses.
-- **/scripts**: Python scripts for data processing and analysis.
-- **/reports**: Final reports and presentations.
-- **/resources**: Additional reading materials, references, and useful links.
 
 ## Requirements
 
